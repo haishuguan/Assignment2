@@ -1,0 +1,31 @@
+.heading{
+  color:Red;
+}
+.content{
+  font-size: 20px;
+}
+.senses{
+  font-family:"Trebuchet",Trebuchet,sans-serif;
+}
+.lion{
+  text-transform: uppercase;
+}
+.logo{
+  right: 10%;
+  position: fixed;
+  text-transform: uppercase;
+  color: blue;
+}
+.marked p{
+  color: green;
+}
+.img1,.img2{
+  width:50%;
+  height:50%;
+}
+.box{
+  margin-top:20px;
+  margin-right:10%;
+  margin-bottom:20px;
+  margin-left:10%;
+}
